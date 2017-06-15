@@ -1,0 +1,61 @@
+html {
+  background: linear-gradient(to bottom, yellow 0%, floralwhite 100%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+
+  height: 100%;
+}
+
+h1 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+#Rock {
+  color: transparent; 
+  border: 0;
+  background-image: url(https://hydra-media.cursecdn.com/ark.gamepedia.com/thumb/d/d4/Stone.png/150px-Stone.png?version=91106c16ba989d63e5e1d5538f032e97);
+  height: 150px;
+  width: 150px;
+  background-color: transparent;
+}
+
+#Paper {
+  color: transparent;
+  border: 0;
+  background-image: url(http://www.ghpkendal.co.uk/image/cache/catalog/data/Paper/Poster%20Paper/SUGAR_PAPER_GREY-150x150.png);
+  height: 150px;
+  width: 150px;
+  background-color: transparent;
+}
+
+#Scissors {
+  color: transparent;
+  border: 0;
+  background-image: url(http://www.grovesales.co.uk/media/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/p/h/ph50.png);
+  height: 150px;
+  width: 150px;
+  background-color: transparent;
+}
+
+h5 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center; 
+}
+
+.button-box {
+ text-align:center; 
+  
+}
