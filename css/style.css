@@ -69,7 +69,7 @@ h3 {
 
  #Rock{
     -webkit-animation-name: Floatingx;
-    -webkit-animation-duration: 4s;
+    -webkit-animation-duration: 5s;
     -webkit-animation-iteration-count: infinite;
     -webkit-animation-timing-function: ease-in-out;
     -moz-animation-name: Floating;
@@ -83,7 +83,7 @@ h3 {
 
 #Paper{
     -webkit-animation-name: Floatingx;
-    -webkit-animation-duration: 4s;
+    -webkit-animation-duration: 3s;
     -webkit-animation-iteration-count: infinite;
     -webkit-animation-timing-function: ease-in-out;
     -moz-animation-name: Floating;
